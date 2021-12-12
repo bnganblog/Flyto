@@ -4,6 +4,7 @@ function travelling() {
   
     url[0] = "https://github.com/bnganblog/Flyto";
     url[1] = "https://www.g8d.xyz";
+    url[2] = "https://blog.ajiang.club";
 
   
     if (document.referrer) {
